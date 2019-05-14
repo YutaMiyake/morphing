@@ -1,0 +1,4 @@
+.DS_STORE
+.ipynb_checkpoints
+/morphing
+shape_predictor_68_face_landmarks.dat

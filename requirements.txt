@@ -1,0 +1,7 @@
+opencv-python==3.4.1.15
+dlib==19.10.0
+matplotlib==2.2.2
+scikit-image
+numpy==1.14.3
+jupyter
+ipykernel
