@@ -1,3 +1,11 @@
+## Screenshots
+<img src="https://github.com/YutaMiyake/morphing/blob/master/screenshots/la_joconde_facial_features.png" width="350px"><img src="https://github.com/YutaMiyake/morphing/blob/master/screenshots/yayoi_kusama_facial_features.png" width="350px">
+<img src="https://github.com/YutaMiyake/morphing/blob/master/screenshots/triangles.png" width="350px">
+<img src="https://github.com/YutaMiyake/morphing/blob/master/screenshots/mix.png" width="350px">
+
+## gifs
+![gif1](https://github.com/YutaMiyake/morphing/blob/master/videos/result.gif)
+
 ## Installation
 - clone this repository
 - get model
