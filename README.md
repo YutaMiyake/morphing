@@ -1,5 +1,5 @@
 # Morphing
-This jupyter notebook allows you to create mix or morphed images of two faces and gif of changing faces between one to another.
+This jupyter notebook allows you to create a mix or morphed image of two faces and gif of changing faces between one to another.
 
 ## Gallery
 <img src="https://github.com/YutaMiyake/morphing/blob/master/screenshots/la_joconde_facial_features.png" width="350px"><img src="https://github.com/YutaMiyake/morphing/blob/master/screenshots/yayoi_kusama_facial_features.png" width="350px">
