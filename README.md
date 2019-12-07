@@ -7,7 +7,7 @@ This jupyter notebook allows you to create a mix or morphed image of two faces a
 <img src="https://github.com/YutaMiyake/morphing/blob/master/screenshots/mix.png" width="350px">
 ![gif1](https://github.com/YutaMiyake/morphing/blob/master/videos/result.gif)
 
-## Installation
+## Getting started
 - clone this repository
 - get model
 ```
