@@ -1,4 +1,4 @@
-opencv-python==3.4.1.15
+opencv-python==4.2.0.32
 dlib==19.10.0
 matplotlib==2.2.2
 scikit-image
